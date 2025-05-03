@@ -1,0 +1,1 @@
+[{"modelName":"Random Forest","score":85,"category":"High"},{"modelName":"Logistic Regression","score":75,"category":"Medium"},{"modelName":"XGBoost","score":88,"category":"High"},{"modelName":"LightGBM","score":82,"category":"High"}]
